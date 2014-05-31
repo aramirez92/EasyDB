@@ -16,6 +16,17 @@ Facebook
 =======================================================================
 */
 
+Change Log:
+
+2.00 - PDO Support
+	- Added PDO Support
+	Funcions...
+		- $db->get_results - get multiple row result set from the database.
+		- $db->query -- send a query to the database.
+		- $db->prepare -- add your query with prepared statements.
+		- $db->execute -- execute PDO with or without statements.
+		- $db = new EasyDB -- Initiate new db object.
+
 1.00 - Initial Release
 	Functions...
 		- $db->get_results - get multiple row result set from the database.
