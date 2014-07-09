@@ -5,7 +5,7 @@ Name: EasyDB
 Desc: EasyDB is an open source PHP database class that I wrote at 
       november 2012. The class makes more easy to use MySQL within 
       your PHP script.
-License: FREE / Donation 
+License: Beerware
   	(LGPL - You may do what you like with EasyDB - no exceptions.)
 =======================================================================
 Twitter:
