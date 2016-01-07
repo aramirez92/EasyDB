@@ -1,6 +1,6 @@
 /*
 =======================================================================
-Author: Alfredo Ramirez - http://www.ciber-adictos.com
+Author: Alfredo Ramirez - http://twitter.com/devOps92
 Name: EasyDB
 Desc: EasyDB is an open source PHP database class that I wrote at 
       november 2012. The class makes more easy to use MySQL within 
